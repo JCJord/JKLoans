@@ -9,6 +9,8 @@ e envia por e-mail os dados para o desenvolvedor.
 <li>CSS</li>
 <li>Javascript</li>
 <li>Ajax</li>
+<li>PHP</li>
+<li>PHP Mailer</li>
 
 ## URL
 https://jkassessoria.000webhostapp.com/
